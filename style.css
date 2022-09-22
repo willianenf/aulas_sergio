@@ -1,0 +1,19 @@
+body{
+    background: #ffffff;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+}
+
+.photo {
+    border: 1px solid #505050;
+    border-radius: 50%;
+}
+
+.title, .post_title {
+    color: #d81f1f
+}
+
+.post_imagem {
+    margin-bottom: 15px;
+}
